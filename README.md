@@ -63,3 +63,25 @@ Many students enter the course with limited Linux and command-line experience ye
 ├── assignments/              # Problem sets, memos, and project prompts
 ├── final-project/            # Lightning talk & final deliverable guidelines
 └── resources/                # Setup guides for Jetstream2, JupyterHub, Podman
+
+## References
+
+Bright Coding. (2025, September 18). *Build a private, powerful AI stack at home: The complete guide to self-hosting with n8n, Ollama, Supabase, Open WebUI & more*. https://www.blog.brightcoding.dev/2025/09/18/build-a-private-powerful-ai-stack-at-home-the-complete-guide-to-self-hosting-with-n8n-ollama-supabase-open-webui-more/
+
+Center for Biological Diversity. (n.d.). *City council letter* [Sample memo template]. https://www.biologicaldiversity.org/action/toolbox/protecting_the_ca_coast/city_council_letter.html
+
+Digital Sovereignty Coalition. (n.d.). *Plurality of digital sovereignty*. https://digitalsovereigntycoalition.org/digital-sovereignty
+
+Doctorow, C. (2025). *Enshittification: Why everything suddenly got worse and what to do about it*. Farrar, Straus and Giroux.
+
+Electronic Frontier Foundation & University of Nevada, Reno Reynolds School of Journalism. (n.d.). *Atlas of Surveillance: Data library*. https://www.atlasofsurveillance.org/data-library
+
+FoggedLens. (2026). *deflock* [Computer software]. GitHub. https://github.com/FoggedLens/deflock
+
+Jung, M. (2023, February 7). Digital capitalism is a mine not a cloud: Exploring the extractivism at the root of the data economy. *Transnational Institute*. https://www.tni.org/en/article/digital-capitalism-is-a-mine-not-a-cloud
+
+Kwet, M. (2021, March 4). Digital colonialism: The evolution of US empire. *Transnational Institute*. https://longreads.tni.org/digital-colonialism-the-evolution-of-us-empire
+
+U.S. Environmental Protection Agency. (n.d.). *EJScreen: Environmental justice screening and mapping tool* [Interactive map]. https://epa.maps.arcgis.com/apps/webappviewer/index.html?id=5f239fd3e72f424f98ef3d5def547eb5
+
+Wilkinson, M. D., Dumontier, M., Aalbersberg, I. J., Appleton, G., Axton, M., Baak, A., Blomberg, N., Boiten, J.-W., da Silva Santos, L. B., Bourne, P. E., Bouwman, J., Brookes, A. J., Clark, T., Crosas, M., Dillo, I., Dumon, O., Edmunds, S., Evelo, C. T., Finkers, R., … Mons, B. (2016). The FAIR guiding principles for scientific data management and stewardship. *Scientific Data, 3*, Article 160018. https://doi.org/10.1038/sdata.2016.18
