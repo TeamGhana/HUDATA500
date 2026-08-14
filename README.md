@@ -53,7 +53,6 @@ Many students enter the course with limited Linux and command-line experience ye
 
 ## Repository Structure
 
-```text
 ├── README.md                 # This file
 ├── syllabus/                 # Course syllabus and schedule
 ├── modules/                  # Weekly module materials
