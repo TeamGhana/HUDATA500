@@ -52,7 +52,7 @@ Many students enter the course with limited Linux and command-line experience ye
 ---
 
 ## Repository Structure
-
+```
 ├── README.md                 # This file
 ├── syllabus/                 # Course syllabus and schedule
 ├── modules/                  # Weekly module materials
@@ -62,7 +62,7 @@ Many students enter the course with limited Linux and command-line experience ye
 ├── assignments/              # Problem sets, memos, and project prompts
 ├── final-project/            # Lightning talk & final deliverable guidelines
 └── resources/                # Setup guides for Jetstream2, JupyterHub, Podman
-
+```
 ## References
 
 Bright Coding. (2025, September 18). *Build a private, powerful AI stack at home: The complete guide to self-hosting with n8n, Ollama, Supabase, Open WebUI & more*. https://www.blog.brightcoding.dev/2025/09/18/build-a-private-powerful-ai-stack-at-home-the-complete-guide-to-self-hosting-with-n8n-ollama-supabase-open-webui-more/
