@@ -7,7 +7,19 @@
 [![FacultyHack@Gateways 2026](https://img.shields.io/badge/FacultyHack-Gateways%202026-2b6cb0)](https://hackhpc.github.io/facultyhack-gateways26/)
 [![SGX3](https://img.shields.io/badge/SGX3-NSF%20Award%202231406-1a365d)](https://sciencegateways.org/)
 [![License](https://img.shields.io/badge/license-Open%20Source-green)](LICENSE)
+## Faculty Participant
 
+<p align="center">
+  <img src="images/agbeli-ameko-headshot.jpg" alt="Agbeli Ameko" width="220"/>
+</p>
+
+**Agbeli Ameko**
+
+Earth systems, data, and operational executive with 20+ years of experience spanning high-performance computing, open-source IoT environmental sensing, data analytics, and fragile-state operations across West and Central Africa.
+
+This unique combination of technical expertise in open-source IoT and data analytics, together with executive leadership in fragile-state environments, enables me to bridge science, technology, and operations to advance climate resilience, critical-minerals development, sustainable infrastructure, and project finance in emerging markets.
+
+Interest in executive leadership, open source technology, climate data infrastructure, observational networks in data-sparse regions, strategic partnerships, fundraising, and projects that advance sustainable development across the global south.
 ---
 
 ## Overview
@@ -54,6 +66,7 @@ Many students enter the course with limited Linux and command-line experience ye
 ## Repository Structure
 ```
 ├── README.md                 # This file
+├── images/                   # Faculty headshot and other assets
 ├── syllabus/                 # Course syllabus and schedule
 ├── modules/                  # Weekly module materials
 ├── datasets/                 # Environmental justice & anti-surveillance datasets
