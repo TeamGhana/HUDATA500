@@ -20,6 +20,7 @@ Earth systems, data, and operational executive with 20+ years of experience span
 This unique combination of technical expertise in open-source IoT and data analytics, together with executive leadership in fragile-state environments, enables me to bridge science, technology, and operations to advance climate resilience, critical-minerals development, sustainable infrastructure, and project finance in emerging markets.
 
 Interest in executive leadership, open source technology, climate data infrastructure, observational networks in data-sparse regions, strategic partnerships, fundraising, and projects that advance sustainable development across the global south.
+
 ---
 
 ## Overview
