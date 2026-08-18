@@ -10,7 +10,7 @@
 ## Faculty Participant
 
 <p align="center">
-  <img src="images/agbeli-ameko-headshot.jpg" alt="Agbeli Ameko" width="220"/>
+  <img src="images/Agbeli-Ameko-headshot.jpg" alt="Agbeli Ameko" width="220"/>
 </p>
 
 **Agbeli Ameko**
