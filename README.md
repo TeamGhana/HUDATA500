@@ -34,7 +34,9 @@ Students progress through a single, continuous **dataset-driven project** focuse
 The redesign builds practical confidence in open-source tools and gives every student — regardless of personal hardware — access to a shared, reproducible computing environment.
 
 ---
-
+## SGX3 Science Gateways Poster
+[poster](FacultyHack_Ameko_Gateways26_Poster_PRINT.pdf)
+---
 ## Course Goals
 
 - Master core concepts of open-source operating systems, local tooling, and ethical computing practices that challenge digital colonialism and advance data sovereignty.
