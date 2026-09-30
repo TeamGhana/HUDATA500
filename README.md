@@ -34,8 +34,10 @@ Students progress through a single, continuous **dataset-driven project** focuse
 The redesign builds practical confidence in open-source tools and gives every student — regardless of personal hardware — access to a shared, reproducible computing environment.
 
 ---
-## SGX3 Science Gateways Poster
-[poster](FacultyHack_Ameko_Gateways26_Poster_PRINT.pdf)
+## SGX3 Science Gateways Poster & Blog
+
+[poster](FacultyHack_Ameko_Gateways26_Poster_PRINT.pdf) · [blog](blog/SGX3-Faculty-Hackathon-and-Science-Gateways.md)
+
 ---
 ## Course Goals
 
@@ -69,7 +71,9 @@ Many students enter the course with limited Linux and command-line experience ye
 ## Repository Structure
 ```
 ├── README.md                 # This file
-├── images/                   # Faculty headshot and other assets
+├── FacultyHack_Ameko_Gateways26_Poster_PRINT.pdf
+├── blog/                     # FacultyHack@Gateways 2026 blog post
+├── images/                   # Faculty headshot, conference photos, and other assets
 ├── syllabus/                 # Course syllabus and schedule
 ├── modules/                  # Weekly module materials
 ├── datasets/                 # Environmental justice & anti-surveillance datasets
